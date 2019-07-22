@@ -31,6 +31,9 @@ Usage of moha:
 ### 例子
 [输出膜法师的Slogan](demo/slogan.moha)
 
+运行结果为：
+
+![例子运行结果](pic/output.jpg)
 
 ### 下载
 请在release中下载最新版本或编译安装
